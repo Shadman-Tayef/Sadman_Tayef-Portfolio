@@ -1,0 +1,75 @@
+{
+  "name": "Sadman Tayef",
+  "headline": "Information & Communication Engineering Graduate",
+  "location": "Dhaka, Bangladesh",
+  "summary": "Graduate with expertise in Python, C/C++, databases, AI, automation, and API integration. Strong problem-solving skills, hands-on project experience, and a passion for developing innovative, real-world software solutions.",
+  "education": [
+    {
+      "degree": "B.Sc. in Information and Communication Engineering",
+      "school": "East West University (EWU)",
+      "status": "Graduated",
+      "cgpa": "Approximately 3.30/4.00"
+    }
+  ],
+  "skills": [
+    {
+      "label": "Programming",
+      "text": "Proficient in Python and C++; working knowledge of Java and C"
+    },
+    {
+      "label": "Technical",
+      "text": "SQL, AI/ML programming, workflow automation, API integration"
+    },
+    {
+      "label": "Tools",
+      "text": "GitHub, Linux, Google Workspace, MS Office, Canvas, project management software"
+    }
+  ],
+  "experience": [
+    {
+      "role": "AI Automation Engineer",
+      "org": "Corporate Ask",
+      "type": "Unpaid / Project-based",
+      "year": "2026",
+      "bullets": [
+        "Worked on AI automation concepts and practical workflow solutions, exploring automation, AI-powered processes, APIs, and productivity improvements.",
+        "Worked with automation tools, APIs, and AI services to design and implement practical workflow solutions.",
+        "Assisted in integrating AI capabilities into business processes and improving task efficiency."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Capstone: Early Detection of Powdery Mildew in Plants Using Electrical Signal Analysis (Multimodal ML)",
+      "date": "Academic",
+      "bullets": [
+        "Developed an ML-based system for early plant disease detection using electrical signal data and multimodal inputs.",
+        "Applied data preprocessing, feature extraction, and model training."
+      ]
+    },
+    {
+      "title": "Plant Dashboard",
+      "date": "June 2026",
+      "text": "Web-based plant health monitoring system that analyzes sensor data with ML, shows results on a dashboard and sends Telegram alerts to farmers."
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Excel for Being a Data Analyst",
+      "org": "Data Solution 360",
+      "date": "September 2025",
+      "note": "93% (A+)"
+    }
+  ],
+  "activities": [
+    {
+      "title": "Volunteer — National Telco Warfare 2024",
+      "org": "EWU Telecommunications Club",
+      "date": "2024",
+      "text": "Certificate of Appreciation."
+    }
+  ],
+  "languages": [
+    "English — Fluent"
+  ]
+}
